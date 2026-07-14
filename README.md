@@ -18,13 +18,16 @@ LangChain · LangGraph · Pinecone · SQLite · EXAONE(QLoRA) · AWS(VPC/EC2/SSM
 
 ### 📌 대표 프로젝트
 **[LLM 기반 스타트업 HR 채용보조 시스템](ppt 및 https://github.com/leere2424/Final_project)**
+
 JD·지원자 정보를 기반으로 직무 적합성 리포트와 맞춤 면접 질문을 생성하는 LLM 서비스.
 LangGraph(StateGraph) 기반 파이프라인 설계, 개인정보 마스킹 체인, AWS 인프라 및
 CI/CD 구축까지 기획부터 배포까지 전 과정을 담당했습니다.
 
 `LangChain` `LangGraph` `AWS` `GitHub Actions`
 
+
 **[복부 CT 장기 손상 분류 CNN 모델 파인튜닝 및 성능 평가](ppt)**
+
 VGG11, ResNet18, EfficientNet-B1 사전학습 모델을 파인튜닝하고 성능을 비교·평가한
 프로젝트. 클래스 불균형 대응(Focal Loss, Sampling)과 입력 해상도·증강 강도·모델 구조에
 대한 ablation study를 설계해 F1-score 기준으로 분석했습니다.
