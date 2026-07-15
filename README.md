@@ -1,14 +1,14 @@
 <p align="center">
   <img src="./Github Banner.png" width="100%" alt="Banner">
 </p>
-## About Me
 
-AI Engineer
+<h3 align="center">About Me</h3>
 
-사람과 에이전트가 함께 일하는 방향을 지향합니다.
-
-LLM · RAG · AI Agent를 활용하여
-실제 운영 가능한 서비스를 만듭니다.
+<p align="center">
+AI Engineer<br>
+사람과 에이전트가 함께 일하는 방향을 지향합니다.<br>
+LLM · RAG · AI Agent를 활용하여 실제 운영 가능한 서비스를 만듭니다.
+</p>
 
 ---
 
