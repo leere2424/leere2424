@@ -2,7 +2,9 @@
   <img src="./Github Banner.png" width="100%" alt="Banner">
 </p>
 
-<h3 align="center">About Me</h3>
+<p align="center">
+<sub><b>ABOUT ME</b></sub>
+</p>
 
 <p align="center">
 AI Engineer<br>
