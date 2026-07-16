@@ -2,11 +2,11 @@
   <img src="./Github Banner.png" width="100%" alt="Banner">
 </p>
 
-<p align="center">
+<p>
 <sub><b>ABOUT ME</b></sub>
 </p>
 
-<p align="center">
+<p>
 AI Engineer<br>
 사람과 에이전트가 함께 일하는 방향을 지향합니다.<br>
 LLM · RAG · AI Agent를 활용하여 실제 운영 가능한 서비스를 만듭니다.
@@ -30,4 +30,4 @@ LLM · RAG · AI Agent를 활용하여 실제 운영 가능한 서비스를 만�
 
 ## Tech Stack
 
-`Python` `PyTorch` `LangChain` `LangGraph` `Django` `AWS` `GitHub Actions`
+`Python` `LangChain` `LangGraph` `AWS` `GitHub Actions` `MySQL`
