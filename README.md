@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./Github Banner.png" width="100%" alt="Banner">
-</p>
-
 <p>
 <sub><b>ABOUT ME</b></sub>
 </p>
